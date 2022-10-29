@@ -1,3 +1,3 @@
 // JavaScript ada di index.html
-confirm("Selamat Datang Di Portofolio Q")
+confirm("Welcome to My Portfolio")
 
